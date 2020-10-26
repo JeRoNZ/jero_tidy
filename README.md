@@ -1,7 +1,3 @@
-# JeRo's Cycle2 Slide Show for concrete5 CMS Version5.7+
+# JeRo's File Title Cleaner
 
-concrete5 marketplace page
-https://www.concrete5.org/marketplace/addons/cycle2-slide-show
-
-This addon uses the totally awesome cycle2 plugin written my Mike Alsup
-https://github.com/malsup/cycle2
+This add on massages the filename of any file uploaded, removes - and _ characters and replaces them with space, removes the file suffix and uppercases the first letter of each word in the title.
